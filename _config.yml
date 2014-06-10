@@ -4,7 +4,7 @@ username: guochy2012
 email: guochy2012@gmail.com
 description: "Succinctly"
 url: "http://guochy2012.github.io"
-baseurl: "http://guochy2012.github.io"
+baseurl: ""
 
 markdown: kramdown
 permalink: /:title
