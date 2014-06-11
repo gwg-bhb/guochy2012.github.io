@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-I am a C++ Programer in Shenzhen, China. I have always been fascinated to UNIX、C Plus plus and WEB develpment. I want to use this website to record my thought about programing. 
+I am a C++ Programer in Shenzhen, China. I have always been fascinated to UNIX、C Plus plus and WEB development. I want to use this website to record my thought about programming. 
 
 If you like my website, you can follow me on twitter [@guochunyang](https://twitter.com/guochunyang).
